@@ -12,7 +12,7 @@
 
 *Robust detection of online sexism using ensemble transformer models*
 
-[Paper](https://ceur-ws.org/Vol-3497/) • [Competition](http://nlp.uned.es/exist2023/) • [Data](https://doi.org/10.5281/zenodo.8144300)
+[Paper](https://ceur-ws.org/Vol-3497/paper-085.pdf) • [Competition](http://nlp.uned.es/exist2023/) • [Data](https://doi.org/10.5281/zenodo.8144300)
 
 ---
 
