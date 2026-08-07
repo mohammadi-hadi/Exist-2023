@@ -3,6 +3,7 @@ message: "If you use this code, please cite the paper below."
 title: "Towards Robust Online Sexism Detection: A Multi-Model Approach with BERT, XLM-RoBERTa, and DistilBERT for EXIST 2023 Tasks"
 type: software
 license: MIT
+date-released: "2023-07-13"
 repository-code: "https://github.com/mohammadi-hadi/Exist-2023"
 identifiers:
   - type: doi
