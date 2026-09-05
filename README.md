@@ -14,7 +14,7 @@
 |                  |                                                                          |
 | ---------------- | ------------------------------------------------------------------------ |
 | **Title**        | Towards Robust Online Sexism Detection: A Multi-Model Approach with BERT, XLM-RoBERTa, and DistilBERT for EXIST 2023 Tasks |
-| **Authors**      | Hadi Mohammadi, Anastasia Giachanou, Ayoub Bagheri |
+| **Authors**      | Hadi Mohammadi, Anastasia Giachanou, Robert A. Bagheri |
 | **Affiliation**  | Department of Methodology and Statistics, Utrecht University, The Netherlands |
 | **Venue**        | Working Notes of CLEF 2023 (CEUR Workshop Proceedings, Vol. 3497), pp. 1000–1011 |
 | **Paper**        | [ceur-ws.org/Vol-3497/paper-085.pdf](https://ceur-ws.org/Vol-3497/paper-085.pdf) |
@@ -34,7 +34,7 @@ If you use this code, please cite:
 ```bibtex
 @inproceedings{mohammadi2023towards,
   title     = {Towards Robust Online Sexism Detection: A Multi-Model Approach with BERT, XLM-RoBERTa, and DistilBERT for EXIST 2023 Tasks},
-  author    = {Mohammadi, Hadi and Giachanou, Anastasia and Bagheri, Ayoub},
+  author    = {Mohammadi, Hadi and Giachanou, Anastasia and Bagheri, Robert A.},
   booktitle = {Working Notes of CLEF 2023 -- Conference and Labs of the Evaluation Forum},
   series    = {CEUR Workshop Proceedings},
   volume    = {3497},
