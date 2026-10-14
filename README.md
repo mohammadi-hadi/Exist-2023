@@ -96,7 +96,7 @@ The **EXIST 2023 dataset** (English and Spanish tweets with hard and soft labels
 
 - [Sexism-Detection-in-Social-Media](https://github.com/mohammadi-hadi/Sexism-Detection-in-Social-Media) — mirror of this repository (identical notebook)
 - [Explainable-Sexism-Detection](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) — transparent sexism-detection pipeline with SHAP explanations (Applied Sciences, 2024)
-- [BehAv-PO](https://github.com/mohammadi-hadi/BehAv-PO) — behavioral cluster-driven multi-agent preference optimization for sexism detection (EXIST 2024)
+- [MAP-PO](https://github.com/mohammadi-hadi/MAP-PO) — behavioral cluster-driven multi-agent preference optimization for sexism detection (EXIST 2024)
 
 ## License
 
